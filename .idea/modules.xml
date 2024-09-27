@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Advanced/Advanced.iml" filepath="$PROJECT_DIR$/Advanced/Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes and Objects/Classes and Objects.iml" filepath="$PROJECT_DIR$/Classes and Objects/Classes and Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flow Control/Flow Control.iml" filepath="$PROJECT_DIR$/Flow Control/Flow Control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GFG-Java-Solutions.iml" filepath="$PROJECT_DIR$/.idea/GFG-Java-Solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input and Output in Java/Input and Output in Java.iml" filepath="$PROJECT_DIR$/Input and Output in Java/Input and Output in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Java Basics.iml" filepath="$PROJECT_DIR$/Java Basics/Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java OOPS/Java OOPS.iml" filepath="$PROJECT_DIR$/Java OOPS/Java OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables and Data Types/Variables and Data Types.iml" filepath="$PROJECT_DIR$/Variables and Data Types/Variables and Data Types.iml" />
+    </modules>
+  </component>
+</project>
