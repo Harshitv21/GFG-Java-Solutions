@@ -5,16 +5,34 @@
       <module fileurl="file://$PROJECT_DIR$/Basic to Advance/Advanced/Advanced.iml" filepath="$PROJECT_DIR$/Basic to Advance/Advanced/Advanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic to Advance/Array/Array.iml" filepath="$PROJECT_DIR$/Basic to Advance/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic to Advance/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/Basic to Advance/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/ArrayLists/ArrayLists.iml" filepath="$PROJECT_DIR$/List/ArrayLists/ArrayLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Arrays Class/Arrays Class.iml" filepath="$PROJECT_DIR$/Algorithms/Arrays Class/Arrays Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic to Advance/Classes and Objects/Classes and Objects.iml" filepath="$PROJECT_DIR$/Basic to Advance/Classes and Objects/Classes and Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Collections Class/Collections Class.iml" filepath="$PROJECT_DIR$/Algorithms/Collections Class/Collections Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparator and Comparable/Comparator and Comparable.iml" filepath="$PROJECT_DIR$/Comparator and Comparable/Comparator and Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Deque/Deque.iml" filepath="$PROJECT_DIR$/Queue/Deque/Deque.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic to Advance/Flow Control/Flow Control.iml" filepath="$PROJECT_DIR$/Basic to Advance/Flow Control/Flow Control.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic to Advance/Functions/Functions.iml" filepath="$PROJECT_DIR$/Basic to Advance/Functions/Functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/GFG-Java-Solutions.iml" filepath="$PROJECT_DIR$/.idea/GFG-Java-Solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/HashMap and LinkedHashMap/HashMap and LinkedHashMap.iml" filepath="$PROJECT_DIR$/Map/HashMap and LinkedHashMap/HashMap and LinkedHashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/HashSet and LinkedHashSet/HashSet and LinkedHashSet.iml" filepath="$PROJECT_DIR$/Set/HashSet and LinkedHashSet/HashSet and LinkedHashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic to Advance/Input and Output in Java/Input and Output in Java.iml" filepath="$PROJECT_DIR$/Basic to Advance/Input and Output in Java/Input and Output in Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic to Advance/Java Basics/Java Basics.iml" filepath="$PROJECT_DIR$/Basic to Advance/Java Basics/Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streams &amp; Lambda Expressions/Java Lambda Expressions/Java Lambda Expressions.iml" filepath="$PROJECT_DIR$/Streams &amp; Lambda Expressions/Java Lambda Expressions/Java Lambda Expressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic to Advance/Java OOPS/Java OOPS.iml" filepath="$PROJECT_DIR$/Basic to Advance/Java OOPS/Java OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streams &amp; Lambda Expressions/Java Streams/Java Streams.iml" filepath="$PROJECT_DIR$/Streams &amp; Lambda Expressions/Java Streams/Java Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/List/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic to Advance/Loops/Loops.iml" filepath="$PROJECT_DIR$/Basic to Advance/Loops/Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic to Advance/Operators/Operators.iml" filepath="$PROJECT_DIR$/Basic to Advance/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Overview/Overview.iml" filepath="$PROJECT_DIR$/Collections/Overview/Overview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Priority Queue/Priority Queue.iml" filepath="$PROJECT_DIR$/Queue/Priority Queue/Priority Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queue/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/Stack/Stack.iml" filepath="$PROJECT_DIR$/List/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic to Advance/String/String.iml" filepath="$PROJECT_DIR$/Basic to Advance/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/Strings/Strings.iml" filepath="$PROJECT_DIR$/String/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/TreeMap/TreeMap.iml" filepath="$PROJECT_DIR$/Map/TreeMap/TreeMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/TreeSet/TreeSet.iml" filepath="$PROJECT_DIR$/Set/TreeSet/TreeSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic to Advance/Variables and Data Types/Variables and Data Types.iml" filepath="$PROJECT_DIR$/Basic to Advance/Variables and Data Types/Variables and Data Types.iml" />
     </modules>
   </component>
